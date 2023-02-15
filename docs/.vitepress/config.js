@@ -1,4 +1,7 @@
-export default {
+import { defineConfig } from "vitepress";
+import { componentPreview, containerPreview } from "@vitepress-demo-preview/plugin";
+
+export default defineConfig({
   title: "w-*",
   description: "Some tools from my work",
   themeConfig: {
@@ -40,8 +43,24 @@ export default {
       },
       {
         text: "w-schema-form",
-        items: [{ text: "快速起步" }],
+        items: [
+          { text: "快速起步", link: "/w-schema-form/" },
+          {
+            text: "API",
+            collapsible: true,
+            items: [
+              { text: "schemaTransfer", link: "/w-schema-form/schemaTransfer" },
+              { text: "returnDateComponent", link: "/w-schema-form/returnDateComponent" },
+            ],
+          },
+        ],
       },
     ],
   },
-};
+  markdown: {
+    config(md) {
+      md.use(componentPreview);
+      md.use(containerPreview);
+    },
+  },
+});

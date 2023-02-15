@@ -9,6 +9,7 @@ hero:
       link: /w-mini-tools/
     - theme: brand
       text: w-schema-form
+      link: /w-schema-form/
 features:
   - title: w-mini-tools
     details: 一些数据处理方面的JavaScript方法
