@@ -6,7 +6,7 @@
 该方法解决数字精度丢失问题，如：19.9\*100 ≠ 1990。
 :::
 
-- 参数: `num: number, multiple: number`
+- 参数: `num: Number, multiple: Number`
 
 ```js
 const num = 19.9; //待转换数字

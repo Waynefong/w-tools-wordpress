@@ -2,7 +2,7 @@
 
 根据传入的时间字符串，返回对应的时间组件。
 
-- 参数: `date: string`
+- 参数: `date: String`
 
 ```js
 import { returnDateComponent } from "w-schema-form";

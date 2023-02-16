@@ -45,6 +45,10 @@ export default defineConfig({
         text: "w-schema-form",
         items: [
           { text: "快速起步", link: "/w-schema-form/" },
+          { text: "基本使用", link: "/w-schema-form/baseUse" },
+          { text: "配置项参数", link: "/w-schema-form/schemaConfig" },
+          { text: "globalConfigs", link: "/w-schema-form/schemaConfig/globalConfigs" },
+          { text: "configs", link: "/w-schema-form/schemaConfig/configs" },
           {
             text: "API",
             collapsible: true,
@@ -53,7 +57,12 @@ export default defineConfig({
               { text: "returnDateComponent", link: "/w-schema-form/returnDateComponent" },
             ],
           },
+          { text: "Q&A", link: "/w-schema-form/qa" },
         ],
+      },
+      {
+        text: "写到最后",
+        link: "/last/",
       },
     ],
   },

@@ -1,7 +1,7 @@
-# 快速起步
+# 快速起步 <t-tag theme="warning">Alpha</t-tag>
 
 :::tip 提示
-在这里，你可以了解什么是 [w-schema-form](/)。
+在这里，你可以了解什么是 [w-schema-form](/introduction/w-schema-form)。
 :::
 
 ## 安装

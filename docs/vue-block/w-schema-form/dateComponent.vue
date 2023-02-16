@@ -1,5 +1,5 @@
 <template>
-  <t-base-table :data="data" :columns="columns" style="margin: 0"> </t-base-table>
+  <t-base-table :data="data" :columns="columns"> </t-base-table>
 </template>
 
 <script setup>
@@ -7,12 +7,10 @@ const columns = [
   {
     title: "日期格式",
     colKey: "dateType",
-    ellipsis: true,
   },
   {
     title: "返回数据",
     colKey: "resultData",
-    ellipsis: true,
   },
 ];
 const data = [

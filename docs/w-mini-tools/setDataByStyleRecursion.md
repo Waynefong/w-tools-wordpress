@@ -3,7 +3,7 @@
 返回根据指定格式和递归关键字处理后的数组数据。
 
 - 支持递归，需设置判断递归的 key 值，如传入数组希望将 children 值对应的数据也进行递归，则 recursionKey 传入 children。
-- 参数: `data: Array, style: Record, recursionKey?: string`
+- 参数: `data: Array, style: Object, recursionKey?: String`
 
 ```js
 const inputData = [

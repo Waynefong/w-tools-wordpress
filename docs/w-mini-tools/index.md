@@ -1,7 +1,7 @@
 # 快速起步
 
 :::tip 提示
-在这里，你可以了解什么是 [w-mini-tools](/)。
+在这里，你可以了解什么是 [w-mini-tools](/introduction/w-mini-tools)。
 :::
 
 ## 安装

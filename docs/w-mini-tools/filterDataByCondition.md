@@ -2,7 +2,7 @@
 
 返回根据关键字过滤后的数组数据。
 
-- 参数: `data: Array, condition: Record`
+- 参数: `data: Array, condition: Object`
 
 ```js
 const condition = { isDisable: false }; //过滤条件
