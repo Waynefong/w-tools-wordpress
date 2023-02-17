@@ -72,6 +72,8 @@ export default defineConfig({
       md.use(componentPreview);
       md.use(containerPreview);
     },
+    lineNumbers: true,
   },
   ignoreDeadLinks: true,
+  lastUpdated: true,
 });
