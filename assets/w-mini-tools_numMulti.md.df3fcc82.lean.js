@@ -1,1 +1,0 @@
-import{_ as s,c as n,o as a,a as l}from"./app.0139e956.js";const A=JSON.parse('{"title":"numMulti","description":"","frontmatter":{},"headers":[],"relativePath":"w-mini-tools/numMulti.md"}'),o={name:"w-mini-tools/numMulti.md"},t=l("",5),e=[t];function p(c,r,i,u,m,y){return a(),n("div",null,e)}const D=s(o,[["render",p]]);export{A as __pageData,D as default};
