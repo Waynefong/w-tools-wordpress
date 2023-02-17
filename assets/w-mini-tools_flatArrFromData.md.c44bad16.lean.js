@@ -1,1 +1,0 @@
-import{_ as s,c as a,o as l,a as o}from"./app.513d2a69.js";const F=JSON.parse('{"title":"flatArrFromData","description":"","frontmatter":{},"headers":[],"relativePath":"w-mini-tools/flatArrFromData.md"}'),n={name:"w-mini-tools/flatArrFromData.md"},t=o("",5),p=[t];function e(r,c,D,A,i,y){return l(),a("div",null,p)}const d=s(n,[["render",e]]);export{F as __pageData,d as default};
