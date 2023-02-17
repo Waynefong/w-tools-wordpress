@@ -1,1 +1,0 @@
-import{_ as s,c as a,o as n,a as l}from"./app.44ed6378.js";const i=JSON.parse('{"title":"batchAddDel","description":"","frontmatter":{},"headers":[],"relativePath":"w-mini-tools/batchAddDel.md"}'),o={name:"w-mini-tools/batchAddDel.md"},p=l("",4),t=[p];function e(c,r,C,A,y,D){return n(),a("div",null,t)}const F=s(o,[["render",e]]);export{i as __pageData,F as default};

@@ -1,1 +1,0 @@
-import{_ as e,c as t,o as r,a}from"./app.44ed6378.js";const l=JSON.parse('{"title":"什么是 w-schema-form","description":"","frontmatter":{},"headers":[],"relativePath":"introduction/w-schema-form.md"}'),o={name:"introduction/w-schema-form.md"},c=a("",3),s=[c];function n(m,i,_,h,d,f){return r(),t("div",null,s)}const u=e(o,[["render",n]]);export{l as __pageData,u as default};

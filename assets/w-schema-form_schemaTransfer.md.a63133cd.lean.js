@@ -1,1 +1,0 @@
-import{_ as s,c as a,o as n,a as e}from"./app.44ed6378.js";const y=JSON.parse('{"title":"schemaTransfer","description":"","frontmatter":{},"headers":[],"relativePath":"w-schema-form/schemaTransfer.md"}'),o={name:"w-schema-form/schemaTransfer.md"},l=e("",5),c=[l];function t(p,r,i,m,D,f){return n(),a("div",null,c)}const _=s(o,[["render",t]]);export{y as __pageData,_ as default};

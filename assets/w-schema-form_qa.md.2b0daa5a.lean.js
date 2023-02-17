@@ -1,0 +1,1 @@
+import{_ as s,c as a,o as n,a as l}from"./app.0139e956.js";const y=JSON.parse('{"title":"Q&A","description":"","frontmatter":{},"headers":[],"relativePath":"w-schema-form/qa.md"}'),o={name:"w-schema-form/qa.md"},p=l("",7),e=[p];function c(t,r,i,D,d,_){return n(),a("div",null,e)}const m=s(o,[["render",c]]);export{y as __pageData,m as default};
