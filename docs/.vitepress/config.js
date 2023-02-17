@@ -4,6 +4,7 @@ import { componentPreview, containerPreview } from "@vitepress-demo-preview/plug
 export default defineConfig({
   title: "w-*",
   description: "Some tools from my work",
+  base: "/w-tools-wordpress/",
   themeConfig: {
     sidebar: [
       {
@@ -72,4 +73,5 @@ export default defineConfig({
       md.use(containerPreview);
     },
   },
+  ignoreDeadLinks: true,
 });
